@@ -1,0 +1,23 @@
+1. 	What is wp customizer in WordPress?
+	https://developer.wordpress.org/themes/customize-api/customizer-objects/
+
+2.	How to install it on project?
+	Video tutorial is coming soon, inshallah.
+
+3.	How to use it on text and textarea input field?
+	Video tutorial is coming soon, inshallah.
+	
+4.	How to use it on radio input field?
+	Video tutorial is coming soon, inshallah.
+
+5.	How to use it on range input field?
+	Video tutorial is coming soon, inshallah.
+	
+6.	How to use it on time input field?
+	Video tutorial is coming soon, inshallah.
+	
+7.	How to use it on tel input field?
+	Video tutorial is coming soon, inshallah.
+	
+8.	How to use it on tel input field?
+	Video tutorial is coming soon, inshallah.	
